@@ -41,7 +41,6 @@ fuchsia/
 
 # Dart related files
 .dart_tool/
-build/
 .packages
 .idea/
 .vscode/
